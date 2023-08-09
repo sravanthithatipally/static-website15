@@ -1,0 +1,164 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.my-projects {
+    font-family: "bree serif";
+    font-size: 25px;
+    color: #183b56;
+}
+
+.about-projects {
+    font-family: "bree serif";
+    font-size: 12px;
+    color: #616e7c;
+}
+
+.about-picture {
+    height: 40vh;
+    width: 50vh;
+}
+
+.my-projects {
+    padding: 20px;
+}
+
+.website-image {
+    width: 35vw;
+    height: 18vh;
+    margin: 8px;
+
+}
+
+.bg-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/foodbg.png");
+    background-size: cover;
+    height: 100vh;
+}
+
+.order-card {
+    background-color: #f6c56e;
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+    padding: 24px;
+    height: 30vh;
+}
+
+.main-heading {
+    color: #323f4b;
+    font-size: 25px;
+    font-family: "bree-serif";
+}
+
+.card-para {
+    color: #323f4b;
+    font-size: 15px;
+    font-family: "roboto"
+}
+
+.card-button {
+    border-width: 0px;
+    border-radius: 4px;
+    height: 40px;
+    width: 80px;
+    font-family: "roboto";
+    font-size: 12px;
+    background-color: #ffffff;
+}
+
+.advanced-technologies {
+    background-image: url(" https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/arvrbg.png");
+    background-size: cover;
+    height: 100vh;
+}
+
+.tech-card {
+    background-color: #ffffff;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+.name {
+    font-family: "bree sefif";
+    font-size: 32px;
+    color: #5752ab;
+    font-weight: bold;
+}
+
+.about-tech {
+    font-family: "roboto";
+    font-size: 20px;
+    color: #323f4b;
+}
+
+.learnmore {
+    font-family: "bree serif";
+    font-size: 16px;
+    color: #323f4b;
+    border-radius: 10px;
+    height: 50px;
+    width: 35vw;
+    padding: 5px;
+    border-color: #323f4b;
+    margin: 5px;
+}
+
+.savedraft {
+    font-family: "bree serif";
+    font-size: 16px;
+    color: #ffffff;
+    border-radius: 10px;
+    height: 50px;
+    width: 35vw;
+    padding: 5px;
+    border-color: #5752ab;
+    margin: 5px;
+    background-color: #5752ab;
+}
+
+.bg-container-1 {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/newsbg.png");
+    background-size: cover;
+    height: 100vh;
+}
+
+.white-card {
+    background-color: #ffffff;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+.news-head {
+    font-size: 20px;
+    font-family: "roboto";
+    color: #7b8794;
+    margin: 5px;
+}
+
+.main-heading {
+    font-size: 30px;
+    font-family: "roboto";
+    color: #323f4b;
+    margin: 5px;
+}
+
+.main-para {
+    font-size: 15px;
+    font-family: "roboto";
+    color: #7b8794;
+    margin: 5px;
+}
+
+.read-more {
+    font-size: 10px;
+    font-family: "roboto";
+    color: #ffffff;
+    margin: 5px;
+    background-color: #323f4b;
+    height: 35px;
+    width: 70px;
+    padding: 10px;
+    border-radius: 8px;
+    text-align: center;
+    border-color: #323f4b;
+    border-width: 2px;
+
+}
